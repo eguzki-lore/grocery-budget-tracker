@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local grocery records
+grocery_budget_data.json
+grocery_budget_data.csv
+
+# Private or machine-specific development files
+.qwen/
+.env
+.env.*
+!.env.example
+
+# Private source documents and generated staging files
+raw_resumes/
+staging/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local AI conversation exports
+qwen-code-export-*.md
+
+# Separate project
+career-parser/

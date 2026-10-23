@@ -1,0 +1,10 @@
+# Grocery Budget Tracker - Requirements
+# This project uses ONLY Python standard library - no external packages needed!
+
+# Standard library packages (pre-installed with Python):
+tkinter      # GUI framework
+json        # JSON data storage
+csv         # CSV file handling
+datetime    # Date/time operations
+
+# No pip install required! Run directly: python grocery-budget-tracker.py
